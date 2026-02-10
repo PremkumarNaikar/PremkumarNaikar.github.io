@@ -1,7 +1,7 @@
 start = """<html>
 <head>
     <title>
-        Projects - Tanmay Chhatbar
+        Projects - Premkumar Naikar 
     </title>
     <meta charset="utf-8" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.css" rel="stylesheet"/>
