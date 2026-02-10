@@ -60,7 +60,7 @@ fullpage_div_start = """    <div id="fullPage">
                 <br>
 
                 <p class="mb-7">
-                    Doctoral Student at Clemson University (CU-ICAR)
+                    Doctoral Student at Clemson University (CU-)
                 </p>
                 <br>
                 <hr color="white" width="50%" align="left"/>
