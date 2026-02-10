@@ -19,9 +19,9 @@ ntt = """['About me','Automotive data & analysis','Automotive robotics','Aeromod
 fullpage_div_start = """    <div id="fullPage">
         <div class="section">
             <div class="slide 01">
-                <title>Tanmay Chhatbar - About Me</title>
+                <title>Premkumar Naikar - About Me</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Hey! I'm Tanmay!
+    <meta name="description" content="Hey! I'm Premkumar!
     I love vehicles and technology!
     Visit my webpage to know more!">
 
