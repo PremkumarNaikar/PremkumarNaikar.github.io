@@ -1,0 +1,134 @@
+body {
+    background-color: #000;
+    font-family:'Calibri';
+}
+
+iframe {
+    border:2px solid #418FDD;
+    width: 30%;
+    aspect-ratio: 16/9;
+    margin: 10px;
+}
+
+/* links list */
+#infoMenu{
+    position: absolute;
+	bottom: 2%;
+    right: 0%;
+	position: fixed;
+	z-index: 70;
+	margin: 0;
+}
+#infoMenu li a{
+	display: block;
+	margin: 0 2em 0 0;
+	color: #333;
+}
+#infoMenu li a:hover{
+	text-decoration:none;
+}
+#infoMenu li{
+	display:inline-block;
+	position:relative;
+}
+/* project name */
+h1 {
+    padding-left: 2%;
+    text-align: left;
+    color: #418FDD;
+}
+/* project description */
+h3 {
+    padding-left: 2%;
+    text-align: left;
+    color: grey;
+}
+/* project details */
+.info {
+    text-align: left;
+    padding-left: 2%;
+    color: white;
+    width: 40%;
+    text-align: justify;
+    line-height: 1.25em;
+}
+p { 
+    text-align: left;
+    padding-left: 2%;
+    color: white;
+}
+
+/* links */
+a:link {
+    color: darkgray;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: grey;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.bg-video {
+    position: absolute;
+    max-height: 110%;
+    max-width: 100%;
+    right: 0;
+    object-fit: cover;
+    z-index: -1;
+    object-position: right center;
+    background-size: 100% 100%;
+    background-color: black; /* in case the video doesn't fit the whole page*/
+    background-position: center center;
+    background-size: cover;
+    object-fit: cover;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.section{
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    height: 100%;
+    margin-top: 0;
+    height: 100% !important;
+}
+.slide {
+    position: relative;
+    background-size: cover;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    height: 100% !important;
+}
+
+/* fullpage utils */
+#fullpage{
+    z-index: 0;
+    height: 100%;
+    position: relative;
+}
+span {
+    background: #418FDD !important;
+}
+.fp-slidesNav.fp-bottom {
+    text-align: center;
+}
+.fp-tooltip.fp-right {
+    color: white !important;
+}
+.feat {
+    color: lightgrey;
+    margin-left: 10px;
+}
