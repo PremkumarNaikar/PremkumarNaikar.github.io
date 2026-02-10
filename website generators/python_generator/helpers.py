@@ -56,7 +56,7 @@ fullpage_div_start = """    <div id="fullPage">
                     style="height:30vh;width:height;"></div>
             <div class="desc pt-3" margin-left="100px">
                 <h3 class="subheading">Hello! I'm</h3>
-                <h1 class="mb-6">Tanmay Chhatbar</h1>
+                <h1 class="mb-6"> Premkumar Naikar </h1>
                 <br>
 
                 <p class="mb-7">
